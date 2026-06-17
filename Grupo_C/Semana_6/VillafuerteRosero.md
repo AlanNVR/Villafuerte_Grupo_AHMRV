@@ -1,5 +1,11 @@
-##Informe de Exposiciones Software A
-##EQUIPO B: ODoo 
-expositor: Rizzo Nagib   
--Teoria: Explico que es ODoo, como nos ayuda a la gestión de tareas y al control del tiempo para cada tarea.
--practica: Hizo práctica en ODoo
+# Informe de Exposiciones - Software A
+
+## Equipo B: Odoo
+
+**Expositor:** Rizzo Nagib
+
+### Teoría
+Explicó qué es Odoo y cómo ayuda en la gestión de tareas y en el control del tiempo para cada actividad.
+
+### Práctica
+Realizó una práctica en Odoo, mostrando cómo se puede utilizar la herramienta para organizar tareas y mejorar el seguimiento del trabajo.
