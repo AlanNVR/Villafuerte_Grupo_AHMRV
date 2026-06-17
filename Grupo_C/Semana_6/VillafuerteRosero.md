@@ -30,14 +30,14 @@ Creo una tarea y mostro todos sus detalles.
 Explicó qué es rmtoo y qué pasaría si se tratan los requerimientos como código.
 
 **Práctica**
-N/A: Por la dificultad de la práctica no se mostró.
+N/A; Por la dificultad de la práctica no se mostró.
 
 ### Expositor: Vaca David
 **Teoría**
 Explicó cómo funciona y la comparativa de rmtoo contra otras herramientas del mercado, junto a sus ventajas y limitaciones.
 
 **Práctica**
-N/A: Por la dificultad de la práctica no se mostró.
+N/A; Por la dificultad de la práctica no se mostró.
 
 ### Expositor: Huilcapi Denisses
 **Teoría**
