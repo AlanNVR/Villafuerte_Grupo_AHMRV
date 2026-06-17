@@ -116,14 +116,14 @@ Trabajó con estados, prioridades y tipos de peticiones para el seguimiento de r
 
 ## Grupo B: Jama Connect
 
-### Expositor: Jeanpool
+### Expositor: Marcillo Alberto
 **Teoría**  
 Explicó qué es Jama Connect y que permite centralizar la información del proyecto en una sola base.
 
 **Práctica**  
 Mostró un ejemplo de trazabilidad: necesidad → requisito del sistema. También mostró el cambio de estado de una tarea.
 
-### Expositora: Thais
+### Expositora: Herrera Thais
 **Teoría**  
 Explicó los módulos principales, los estándares que soporta y el uso de IA para mejorar requisitos ambiguos.
 
@@ -141,7 +141,7 @@ Realizó una conclusión sobre la herramienta, indicando que no reemplaza la IR,
 
 ## Grupo F: REQI
 
-### Expositora: Mayummy
+### Expositora: Trujillo Mayummy
 **Teoría**  
 Realizó la introducción de REQI y mencionó sus ventajas, como la accesibilidad, el trabajo en tiempo real y el modelo freemium.
 
@@ -166,28 +166,28 @@ Creó el proyecto, mostró el dashboard y trabajó con la elicitación de requer
 
 ## Grupo G: Modern Requirements
 
-### Expositor: Alvia
+### Expositor: Alvia Erick
 **Teoría**  
 Explicó qué es Modern Requirements, su enfoque de control y gestión automatizada de IR. También mencionó su integración con Azure DevOps y el uso de IA.
 
 **Práctica**  
 Mostró la guía Sprint, consultas, paneles de entrega y trazabilidad por medio de pila y columnas.
 
-### Expositor: Arboleda
+### Expositor: Arboleda Francisco
 **Teoría**  
 Explicó la trazabilidad bidireccional y las funcionalidades como ModernAI, simulación de prototipos y documentación automática.
 
 **Práctica**  
 Trabajó con el plan de centro, asignación del proyecto, equipo de trabajo y criterios de campo.
 
-### Expositora: Calle
+### Expositora: Calle Kamila
 **Teoría**  
 Explicó las ventajas y limitaciones, como la integración con Azure DevOps, la dependencia de Azure y el costo elevado.
 
 **Práctica**  
 Creó un requisito con nombre y descripción, realizó un vínculo con el requisito y cambió su estado.
 
-### Expositor: Macías
+### Expositor: Macias Jhostyn
 **Teoría**  
 Explicó la aplicabilidad al proyecto, destacando la IA, la trazabilidad y el guardado de versiones para auditorías.
 
