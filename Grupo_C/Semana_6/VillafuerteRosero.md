@@ -180,4 +180,4 @@ Creó un requisito y una subtarea con el requisito, y cambió el estado de las a
 Explicó la aplicabilidad al proyecto.
 
 **Práctica**
-Creó un sprint.
+Creó un sprint del proyecto.
